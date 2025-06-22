@@ -34,7 +34,7 @@ AD SHIELD uses a content filtering mechanism powered by a JSON ruleset. It inter
 
 ---
 ## UI Design 
-![]()
+![exte](Extension_Design.png)
 ---
 
 ## Conclusion
